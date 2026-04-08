@@ -58,7 +58,4 @@ Marketing Strategy: Run campaigns to boost Low fat product sales, use targeted p
 Category Concentration: Business is highly dependent on limited product categories, a few categories like Fruits, Snacks and household items dominate sales.   
 Moderate Customer Satisfaction: Average Rating around 3.9, There is a room for improvement in customer experience. 
 
-
-
-
-
+https://github.com/Jayaprakash-619/JioMart-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
