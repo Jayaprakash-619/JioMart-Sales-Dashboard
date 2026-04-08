@@ -18,9 +18,9 @@ Source: Bigmart sales dataset & public platform like Kaggle.
 
 Data on JioMart Grocery Sales across the city was collected for a specific month, including detail information on products, outlet characteristics and sales performance. The dataset captures key aspects such as item categories, outlet types, locations and revenue metrics, enabling comprehensive analysis of business performance during that period.
 
-Business problem
-Goal of the dashboard
-Walk through of Key values
+Business problem,
+Goal of the dashboard,
+Walk through of Key values &
 Business Impact & Insights
 
 JioMart is facing challenges in understanding sales performance across different outlets, product categories and locations leading to inefficiencies in decision-making and resource allocation.  
